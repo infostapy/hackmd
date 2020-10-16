@@ -1,5 +1,8 @@
 # STAPY63企画（11/12） 
 
+[![hackmd-github-sync-badge](https://hackmd.io/BZytApmfS3iFH6SDWvc8Gw/badge)](https://hackmd.io/BZytApmfS3iFH6SDWvc8Gw)
+
+
 ###### tags: `stapy`
 
 # 1.前回のふりかえり
