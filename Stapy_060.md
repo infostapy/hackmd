@@ -1,5 +1,7 @@
 # STAPY#60企画（8/12） 
 
+[![hackmd-github-sync-badge](https://hackmd.io/STzh4sOpQwqTAFaIdl5GLg/badge)](https://hackmd.io/STzh4sOpQwqTAFaIdl5GLg)
+
 ###### tags: `stapy`
 
 8月の企画打合せ前回
@@ -121,36 +123,36 @@ Zoomへの移動を待たなくて済む。参加したくない人が抜けて�
 ### (1)質問受付け（Slido）
 
 - イベントコード: #stapy60
-- [ ] 短縮URL:
+- [x] 短縮URL:
     - https://bit.ly/stapy60qa
-- [ ] 正式URL:
+- [x] 正式URL:
     - https://app.sli.do/event/tatauzq9
-- [ ] QRコード
+- [x] QRコード
     - ![](https://i.imgur.com/fHlT3Dw.png)
     - 
 ## (2)アンケート（Googleフォーム）
 
-- [ ] 短縮URL:
+- [x] 短縮URL:
     - https://bit.ly/stapy-60
-- [ ] 正式URL:
+- [x] 正式URL:
     - https://forms.gle/tSjQrgQA8dfzWxrbA
-- [ ] QRコード
+- [x] QRコード
     - ![](https://i.imgur.com/FPKNWAU.png)
-- [ ] アンケートの一覧
+- [x] アンケートの一覧
     - https://docs.google.com/spreadsheets/d/1EMr7zFc5-4EzkafQq9IeV8dSdninuMfBGXT_-Ol5zSU/edit#gid=1131540389
 
 ### (3)オンライン中継（Zoom）
 
-- [ ] 短縮URL
+- [x] 短縮URL
     - https://bit.ly/stapy60zoom
-- [ ] 正式URL:
+- [x] 正式URL:
     - https://us02web.zoom.us/j/83731676314?pwd=SmRGYVM1UWIzVDZpOHV6ZmI4bnp4UT09
-- [ ] QRコード
+- [x] QRコード
     - ![](https://i.imgur.com/H0VocS6.png)
 
 ### (4)オンライン配信（YouTube Live）
 
-- [ ] 正式URL:
+- [x] 正式URL:
     - https://youtu.be/DVF1q6k4UfE
 
 ### 利用ツールの共有
