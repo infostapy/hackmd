@@ -1,5 +1,8 @@
 # STAPY#57企画（5/14） 
 
+[![hackmd-github-sync-badge](https://hackmd.io/3tmFzETpR7KUmYH_ffLFzA/badge)](https://hackmd.io/3tmFzETpR7KUmYH_ffLFzA)
+
+
 ###### tags: `stapy`
 
 ## 1.前回の振り返り
