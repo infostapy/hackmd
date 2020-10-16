@@ -1,5 +1,8 @@
 # STAPY#62企画（10/14） 
 
+[![hackmd-github-sync-badge](https://hackmd.io/6oswT3wlQ82quQkRbxJkgw/badge)](https://hackmd.io/6oswT3wlQ82quQkRbxJkgw)
+
+
 ###### tags: `stapy`
 
 # 1.前回のふりかえり
