@@ -1,5 +1,8 @@
 # STAPY#58企画（6/10） 
 
+[![hackmd-github-sync-badge](https://hackmd.io/fDi2v2tLQFmNLc4dc9_afg/badge)](https://hackmd.io/fDi2v2tLQFmNLc4dc9_afg)
+
+
 [![hackmd-github-sync-badge](https://hackmd.io/LKj-gvRLTEmw0eDaI2i5Tw/badge)](https://hackmd.io/LKj-gvRLTEmw0eDaI2i5Tw)
 
 
