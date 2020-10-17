@@ -3,9 +3,6 @@
 [![hackmd-github-sync-badge](https://hackmd.io/fDi2v2tLQFmNLc4dc9_afg/badge)](https://hackmd.io/fDi2v2tLQFmNLc4dc9_afg)
 
 
-[![hackmd-github-sync-badge](https://hackmd.io/LKj-gvRLTEmw0eDaI2i5Tw/badge)](https://hackmd.io/LKj-gvRLTEmw0eDaI2i5Tw)
-
-
 ###### tags: `stapy`
 
 ## 1.前回の振り返り
