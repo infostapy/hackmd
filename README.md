@@ -27,8 +27,6 @@
 |#58|2020/06/10（水）|終了|[STAPY #58](/Stapy_058.md)
 |#57|2020/05/14（木）|終了|[STAPY #57](/Stapy_057.md)
 
-# アンケートの一覧
-
 # オープニングスライドのひな形など
 
 * [格納フォルダ](https://drive.google.com/drive/folders/1RfyAOb4d0VEl-Td8lpl2mlSIzqiLJFFd)
