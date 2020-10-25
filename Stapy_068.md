@@ -1,5 +1,8 @@
 # STAPY68企画（2021/4/14） 
 
+[![hackmd-github-sync-badge](https://hackmd.io/Frj4al4wTBaMJ7gUiDi5sg/badge)](https://hackmd.io/Frj4al4wTBaMJ7gUiDi5sg)
+
+
 ###### tags: `stapy` `python`
 
 # 1.前回のふりかえり
