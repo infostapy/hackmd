@@ -1,5 +1,8 @@
 # STAPY64企画（12/9） 
 
+[![hackmd-github-sync-badge](https://hackmd.io/jMwt2ASAQX-PwjD1YAx0jQ/badge)](https://hackmd.io/jMwt2ASAQX-PwjD1YAx0jQ)
+
+
 ###### tags: `stapy` `python`
 
 # 1.前回のふりかえり
