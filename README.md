@@ -2,15 +2,15 @@
 
 ###### tags: `stapy` `python`
 
-# 開催一覧
+# 勉強会開催 一覧（予定）
 
 * [開催一覧](https://docs.google.com/spreadsheets/d/1YC4FWeqZzjfKASaIYPmDpNfsxQjzw-7EslyXKffiTZE/edit#gid=0)
 
-# 開催実績
+# 勉強会開催 実績
 
 * [開催実績](https://docs.google.com/spreadsheets/d/1wkh0gQT6w8POBrMH374xYbjWUVejh_X7B92ibMNqgOg/edit#gid=0)
 
-# 「みんなのPython勉強会」勉強会一覧
+# 勉強会 企画メモ一 覧
 
 |#|日付(connpass)|ステータス|企画メモ|備考| 
 |---|---|---|---|---|
