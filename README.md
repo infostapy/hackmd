@@ -2,6 +2,14 @@
 
 ###### tags: `stapy` `python`
 
+# 開催一覧
+
+* [開催一覧](https://docs.google.com/spreadsheets/d/1YC4FWeqZzjfKASaIYPmDpNfsxQjzw-7EslyXKffiTZE/edit#gid=0)
+
+# 開催実績
+
+* [開催実績](https://docs.google.com/spreadsheets/d/1wkh0gQT6w8POBrMH374xYbjWUVejh_X7B92ibMNqgOg/edit#gid=0)
+
 # 「みんなのPython勉強会」勉強会一覧
 
 |#|日付(connpass)|ステータス|企画メモ|備考| 
@@ -18,3 +26,13 @@
 |#59|2020/07/09（木）|終了|[STAPY #59](/Stapy_059.md)
 |#58|2020/06/10（水）|終了|[STAPY #58](/Stapy_058.md)
 |#57|2020/05/14（木）|終了|[STAPY #57](/Stapy_057.md)
+
+# アンケートの一覧
+
+# オープニングスライドのひな形など
+
+* [格納フォルダ](https://drive.google.com/drive/folders/1RfyAOb4d0VEl-Td8lpl2mlSIzqiLJFFd)
+
+# アンケートの一覧
+
+* [一覧（スタッフのみ閲覧可能）](https://docs.google.com/spreadsheets/d/1EMr7zFc5-4EzkafQq9IeV8dSdninuMfBGXT_-Ol5zSU/edit#gid=1131540389)
