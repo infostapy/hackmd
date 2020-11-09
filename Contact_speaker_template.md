@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/umN-GH97RyuDj1YZ_305Hw/badge)](https://hackmd.io/umN-GH97RyuDj1YZ_305Hw)
 ## 発表者への依頼文章のテンプレート
 
 ~~~
