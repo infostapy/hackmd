@@ -1,6 +1,8 @@
-[![hackmd-github-sync-badge](https://hackmd.io/umN-GH97RyuDj1YZ_305Hw/badge)](https://hackmd.io/umN-GH97RyuDj1YZ_305Hw)
-## 発表者への依頼文章のテンプレート
+# 発表者への依頼文章のテンプレート
 
+[![hackmd-github-sync-badge](https://hackmd.io/umN-GH97RyuDj1YZ_305Hw/badge)](https://hackmd.io/umN-GH97RyuDj1YZ_305Hw)
+
+###### tags: `stapy` `python`
 ~~~
 ①イベントサイトへの掲載にあたり、以下の情報をxx日までにいただけないでしょうか。
 1.プロフィール
