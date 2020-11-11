@@ -67,13 +67,13 @@ Spcial.chatのリハーサルを調整する（調整さん）こと
     * KY → 阿久津さん
     * 岡崎さん → 阿久津さん
     * 山下さん（または山下さんの部下） → 阿久津さん
-    * 植松さん → 辻先生（12月で）
+    * ~~植松さん → 辻先生（12月で）~~
 :::
 
 ## 2.1.タイトル・サブタイトル
 
 - みんなのPython勉強会#63
-- **〜（サブタイトル）〜**
+- 〜Pythonでみせる、つたえる。〜
 
 ## 2.2.日時
 
@@ -96,8 +96,8 @@ Spcial.chatのリハーサルを調整する（調整さん）こと
 | 19:00|19:10|10分| オープニング |本田さん|
 | 19:10|19:40|30分| トーク1 |岡崎さん|
 | 19:40|20:10|30分| トーク2 |山下さん|
-| 20:10|20:20|10分| ミニトーク|????
-| 20:20|20:50|30分| トーク3 |K.Y|
+| 20:10|20:20|10分| ミニトーク|鎌田さん|
+| 20:20|20:50|30分| トーク3 |kyさん|
 | 20:55|21:00| 5分| ラップアップ |本田さん|
 | 21:00|22:00|60分| 懇親会 ||
 
@@ -113,34 +113,34 @@ Spcial.chatのリハーサルを調整する（調整さん）こと
 ### (1)質問受付け（Slido）
 
 - イベントコード: #stapy63
-- [ ] 短縮URL:
+- [x] 短縮URL:
     - https://bit.ly/stapy63question
-- [ ] 正式URL:
-    - ?
-- [ ] QRコード
-    - ?
+- [x] 正式URL:
+    - https://app.sli.do/event/r7ujsx0i
+- [x] QRコード
+    - ![](https://i.imgur.com/6ZXsjT0.png)
 
 ### (2)アンケート（Googleフォーム）
 
-- [ ] 短縮URL:
+- [x] 短縮URL:
     - https://bit.ly/stapy63
-- [ ] 正式URL:
-    - ?
-- [ ] QRコード
-    - ?
+- [x] 正式URL:
+    - https://docs.google.com/forms/d/e/1FAIpQLScGrEsIwTzEWaYOa7FMi8G5fyUXMNz3cbMRYvdEvD_pCFcsYg/viewform
+- [x] QRコード
+    - ![](https://i.imgur.com/8TvTtab.png)
 
 ### (3)オンライン中継（Zoom）
 
-- [ ] 短縮URL
+- [x] 短縮URL
     - http://bit.ly/stapy63study
-- [ ] 正式URL:
+- [x] 正式URL:
     - https://us02web.zoom.us/j/83442386980?pwd=bWZTR3BjcGlBQldXRGI0VE1ZSURUUT09
-- [ ] QRコード
-    - ?
+- [x] QRコード
+    - ![](https://i.imgur.com/JS9dTvA.png)
 
 ### (4)オンライン配信（YouTube Live）
 
-- [ ] 正式URL:
+- [x] 正式URL:
     - https://youtu.be/OKJXjs5DyxI
 
 ### 利用ツールに関する情報の共有
@@ -189,25 +189,23 @@ Spcial.chatのリハーサルを調整する（調整さん）こと
 
 | 登壇者 |登壇OK|タイトル<br>プロフィール<br>受領|質問<br>許可|資料公開<br>許可|動画<br>アーカイブ<br>許可|Zoom URL連絡|連絡方法|窓口<br>スタッフ|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| K.Y |
-| 山下さん（または部下） |
-| 岡崎さん |
-| xxx |
-| xxx |
+| 岡崎さん | OK | connpass反映済み | OK | OK | OK | | #202011_event (Slack) |
+| 山下さん | OK | connpass反映済み | OK | OK | OK |  | #202011_event (Slack) |
+| kyさん | OK | connpass反映済み | OK | OK | OK |  | #202011_event (Slack) | 
 
 # 4.役割分担・残タスク
 
 ## 4.1 事前準備・担当
 
-- [ ] コンテンツ最終版のFix 日程 10/28 担当者：xxx
-- [ ] メール通知：StapyメンバーへFix案内 担当者：xxx
+- [x] コンテンツ最終版のFix 日程 11/7 担当者：阿部
+- [x] メール通知：StapyメンバーへFix案内 11/8 担当者：阿部
 - [ ] Twitter通知：StapyメンバーへFix案内 担当者：xxx
-- [ ] Slido準備 担当者：阿部
-- [ ] アンケート準備 担当者：LE
-- [ ] connpass作業1:メール予約.配信URLの案内（前日） 担当：阿部
-- [ ] connpass作業2:メール予約.配信URLの案内（当日18:00）  担当：阿部
-- [ ] connpass作業3:参加者閲覧ボックスに配信URL記載 担当：阿部
-- [ ] connpass作業4:メール予約.アンケート依頼 担当：阿部
+- [x] Slido準備 担当者：阿部
+- [x] アンケート準備 担当者：LE
+- [x] connpass作業1:メール予約.配信URLの案内（前日） 担当：阿部
+- [x] connpass作業2:メール予約.配信URLの案内（当日18:00）  担当：阿部
+- [x] connpass作業3:参加者閲覧ボックスに配信URL記載 担当：阿部
+- [x] connpass作業4:メール予約.アンケート依頼 担当：阿部
 
 ### (1)配信URLの連絡文章テンプレート
 
@@ -252,7 +250,7 @@ Start Python Club事務局
 
 |作業|担当|備考|
 | --- | ---|---|
-|司会|?||
+|司会|本田さん||
 |Slido切り替え係|?|stapyアカウントで各自自由に操作|
 |タイムキーパー|?||
 |懇親会・誘導|||
@@ -303,7 +301,6 @@ Start Python Club事務局
     - 山崎さん
 - 12月は小野さんに打診、清水川さんに打診
 - 12月は植松さん
-
 - 検討
     - scipy：再演
     - 11月 or 12月 バイオ系
