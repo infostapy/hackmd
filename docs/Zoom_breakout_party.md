@@ -1,7 +1,11 @@
 # 懇親会ブレイクアウトルーム準備
 
+[![hackmd-github-sync-badge](https://hackmd.io/v3DbcpqURGG6o2g5BMF7HA/badge)](https://hackmd.io/v3DbcpqURGG6o2g5BMF7HA)
+
+###### tags: `stapy`
+
 :::info
-2021/01に確認した設定をもとにまとめています
+2021/01に確認した設定をもとにまとめています  
 詳しくは[こちら](https://hackmd.io/XEJueSXzSYi9ZUt__dBNig#%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AB%E3%83%BC%E3%83%A0%E6%BA%96%E5%82%99)
 :::
 
@@ -19,7 +23,7 @@
 
 ## ブレイクアウトルーム作成
 
-登壇者と話せる部屋 + 予備2部屋
+登壇者と話せる部屋（懇親会に出られる登壇者の人数分） + 予備2部屋  
 ※懇親会に出られるかは[連絡文面](https://hackmd.io/umN-GH97RyuDj1YZ_305Hw)で確認しています
 
 ※メインルームはライトニングトークを開催
@@ -32,7 +36,7 @@
 
 ## 懇親会説明
 
-スライドは前回のものをコピーして作る
+スライドは前回のものをコピーして作る  
 https://drive.google.com/drive/folders/1RfyAOb4d0VEl-Td8lpl2mlSIzqiLJFFd
 
 LTのタイトルはconnpassのアンケートで事前に集めています（入力は必須ではないですが）
