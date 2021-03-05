@@ -31,6 +31,11 @@
 - サブタイトル
     - **〜（サブタイトル）〜**
 
+可視化  
+Python  
+-> Slackで話す
+
+
 ## 2.2.日時
 
 - 日付：2021年3月10日(水)
@@ -39,10 +44,10 @@
 
 ## 2.3 イベントサイト（connpass）
 
-- [ ] connpassコンテンツ作成済みか？
-- [ ] connpassに公開済みか？
-- [ ] URL
-    - https://
+- [x] connpassコンテンツ作成済みか？
+- [x] connpassに公開済みか？
+- [x] URL
+    - https://startpython.connpass.com/event/201613/
 
 ## 2.4 タイムスケジュール
 
@@ -68,35 +73,38 @@
 ### (1)質問受付け（Slido）
 
 - イベントコード: #stapy67
-- [ ] 短縮URL:
+- [x] 短縮URL:
     - https://bit.ly/stapy67question
-- [ ] 正式URL:
-    - ?
-- [ ] QRコード
-    - ?
+- [x] 正式URL:
+    - https://app.sli.do/event/k7o6ti8c
+- [x] QRコード
+    - ![](https://i.imgur.com/R2Ky1PD.png)
+
 
 ### (2)アンケート（Googleフォーム）
 
-- [ ] 短縮URL:
-    - https://bit.ly/stapy67
-- [ ] 正式URL:
-    - ?
-- [ ] QRコード
-    - ?
+- [x] 短縮URL:
+    - http://bit.ly/stapy67forms
+- [x] 正式URL:
+    - https://forms.gle/DZxqnw1mXbPM4mxs5
+- [x] QRコード
+    - ![](https://i.imgur.com/mAQCyH6.png)
+
 
 ### (3)オンライン中継（Zoom）
 
-- [ ] 短縮URL
+- [x] 短縮URL
     - http://bit.ly/stapy67study
-- [ ] 正式URL:
-    - ?
-- [ ] QRコード
-    - ?
+- [x] 正式URL:
+    - https://zoom.us/j/98674727073?pwd=Wmcxbm5QOU14UjFjbHp2VnVPMnRVUT09
+- [x] QRコード
+    - ![](https://i.imgur.com/K71cTUq.png)
+
 
 ### (4)オンライン配信（YouTube Live）
 
-- [ ] 正式URL:
-    - ?
+- [x] 正式URL:
+    - https://youtu.be/S6MHl8OMTRA
 
 ### 利用ツールに関する情報の共有
 
@@ -115,9 +123,9 @@
 
 | 登壇者 |登壇OK|タイトル<br>プロフィール<br>受領|質問<br>許可|資料公開<br>許可|動画<br>アーカイブ<br>許可|Zoom URL連絡|連絡方法|窓口<br>スタッフ|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| xxx |
-| xxx |
-| xxx |
+| komo_fr |
+| 辻さん |
+| 小笠原さん |
 | xxx |
 | xxx |
 
@@ -125,16 +133,17 @@
 
 ## 4.1 事前準備・担当
 
-- [ ] コンテンツ最終版のFix 日程 11/23(月） 担当者：xxx
-- [ ] メール通知：StapyメンバーへFix案内 担当者：xxx
-- [ ] Twitter通知：StapyメンバーへFix案内 担当者：xxx
-- [ ] Slido準備 担当者：阿部
-- [ ] アンケート準備 担当者：LE社
-- [ ] オープニングスライド準備 担当者：nikkie
-- [ ] connpass作業1:メール予約.配信URLの案内（前日） 担当：阿部
-- [ ] connpass作業2:メール予約.配信URLの案内（当日18:00）  担当：阿部
-- [ ] connpass作業3:参加者閲覧ボックスに配信URL記載 担当：阿部
-- [ ] connpass作業4:メール予約.アンケート依頼 担当：阿部
+- [ ] 司会・オープニングスライド準備 担当：阿久津
+- [x] コンテンツ最終版のFix 日程 3/3（水） 担当：阿部
+- [x] メール通知：StapyメンバーへFix案内 担当：LE社
+- [ ] Twitter通知：StapyメンバーへFix案内 担当：阿部
+- [x] Slido準備 担当：LE社
+- [x] アンケート準備 担当：LE社
+- [x] connpass作業1:メール予約.配信URLの案内（前日） 担当：LE社
+- [x] connpass作業2:メール予約.配信URLの案内（当日18:00） 担当：LE社
+- [x] connpass作業3:参加者閲覧ボックスに配信URL記載 担当：LE社
+- [x] connpass作業4:メール予約.アンケート依頼 担当：LE社
+- [x] 登壇者との調整 > Googleフォームでテンプレートを作成する
 
 ### (1)配信URLの連絡文章テンプレート
 
@@ -220,3 +229,39 @@ Start Python Club事務局
 --
 Start Python Club事務局
 ~~~
+
+## 行動規範
+
+以下を試しに使ってみる  
+https://github.com/sf-jp-engineers/code-of-conduct/blob/master/code_of_conduct.md  
+オンラインに限らない  
+>これらのルールはソーシャル・メディアの発言や画像なども含みます。
+
+結びに「みんなで楽しい勉強会にしましょう」前向きに締める
+
+ライセンス  
+https://creativecommons.org/licenses/by/4.0/deed.ja
+>あなたは 適切なクレジットを表示し、ライセンスへのリンクを提供し、変更があったらその旨を示さなければなりません。
+
+「あったときにチャット禁止にします」は言わなくてもいいのでは
+
+掲載例：https://rejectpy2019.connpass.com/event/159691/
+>本イベントは「SF日本語エンジニアの飲み会」さんの「Code of Conduct - 守っていただきたいこと」をアンチハラスメントポリシーとして採用します。
+ご参加される方はご一読ください。
+
+-> **3月の勉強会からconnpassに掲載する。司会の挨拶も準備**
+
+
+植松さんから共有  
+https://boostjp.github.io/study_meeting/code_of_conduct.html  
+短くていいが、ライセンス不明がネック
+
+## 4月の企画
+
+翻訳・ドキュメント
+
+- 吉羽さん　アジャイル本翻訳
+- 島田さん　『モノリスからマイクロサービスへ』翻訳
+- イプシロンさん　『Pythonでいかにして暗号を破るか』（fin-py）
+- SciPy 小山さん （SciPy）
+
