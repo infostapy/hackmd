@@ -2,8 +2,91 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/Frj4al4wTBaMJ7gUiDi5sg/badge)](https://hackmd.io/Frj4al4wTBaMJ7gUiDi5sg)
 
-
 ###### tags: `stapy` `python`
+
+アジェンダ候補です(abenben)
+
+- ３月会の振りかえり(5分）
+    - https://startpythonclub.slack.com/archives/G0T3U6HTL/p1616553949016200
+- ４月会の準備(10分）
+- ５月会（6周年記念）の企画、オファー(20分）
+- アンチハラスメントポリシーについての最終調整（内容OKで、次回の勉強会から正式に周知するか）(10分）
+    - https://startpythonclub.slack.com/archives/G0T3U6HTL/p1616659452001900
+
+## 4月の登壇者の相談(akutsu)
+
+決まっていること
+
+- テーマ：言語の壁を乗り越える
+- 夏目さん（翻訳家）
+- 杵渕 朋彦（cocoatomo）さん（Pythonドキュメント翻訳）
+- イクバルさん（XOXZO CEO）
+- クロージングに名古屋もくもく会の紹介を入れたい（abenbenさんからuematsuさんに連絡）
+
+相談事項
+
+- ここ2週間、stapyの運営、悩んでいる
+  - ビッグネームの方をお呼びしているが、特に講演料など払っているわけではない
+- イクバルさんにはまだ声をかけていない
+  - -> **連絡はしてみる** -> ご快諾！
+  - オンラインでマルチリンガルでどうやって仕事しているか
+
+## 5月（6周年記念）の企画
+
+決まっていること
+
+- 加藤先生（自動運転のOSS）
+- （仮）akutsu/tsujiさんで6年の振り返り
+- もう一枠
+
+abenbenさん提案
+
+- エヌビディア社の森野トレーナーによる量子コンピュータPython SDKやGPUをモリモリ使ったAI事例など
+- スタディストの北野勝久さんにPython×EXCEL×SRE×アジャイル的な話
+- **清水川さん**に何か話してもらう（友情出演）
+  - 独学プログラマーその後（30分）
+  - 連絡はnao_yさんから
+
+## 雑談
+
+公募を試したい  
+6月公募するなら、4月に**Googleフォーム**を用意する（hondaさん）
+
+- あなたのオススメPython本
+
+フォームの説明事項
+
+- お断り「応募多数の場合は抽選で決定します」
+    - 応募者多数の場合は抽選とさせていただきますのでご了承下さい。
+    - 抽選の場合は参加可否をx/x(x)までにメールにてご連絡します。
+- 持ち時間：10分（短くてもOK）
+
+フォームに記入してもらう事項
+
+- 本人の名前（呼ばれたいお名前）
+- メールアドレス（Googleフォームを設定する）
+- 書籍の名前
+- （決まってたら）LTのタイトル
+
+Googleフォームは6月の勉強会のconnpassの上の方に大きく掲載  
+4月の勉強会で6月のconnpassも公開
+- イベントURL:
+    - https://startpython.connpass.com/event/210169/
+
+- [x] 申込フォームURL:
+
+  - https://forms.gle/q7xrCCTUWYoR4M456
+     
+- [x] QRコード
+    - ![](https://i.imgur.com/Mmlc3UM.png)
+
+
+
+
+
+
+
+---
 
 # 1.前回のふりかえり
 
@@ -39,10 +122,10 @@
 
 ## 2.3 イベントサイト（connpass）
 
-- [ ] connpassコンテンツ作成済みか？
-- [ ] connpassに公開済みか？
-- [ ] URL
-    - https://
+- [x] connpassコンテンツ作成済みか？
+- [x] connpassに公開済みか？
+- [x] URL
+    - https://startpython.connpass.com/event/201614/
 
 ## 2.4 タイムスケジュール
 
@@ -68,35 +151,38 @@
 ### (1)質問受付け（Slido）
 
 - イベントコード: #stapy68
-- [ ] 短縮URL:
+- [x] 短縮URL:
     - https://bit.ly/stapy68question
-- [ ] 正式URL:
-    - ?
-- [ ] QRコード
-    - ?
+- [x] 正式URL:
+    - https://app.sli.do/event/250vzdwx
+- [x] QRコード
+    - ![](https://i.imgur.com/wF42tRP.png)
+
 
 ### (2)アンケート（Googleフォーム）
 
-- [ ] 短縮URL:
+- [x] 短縮URL:
     - https://bit.ly/stapy68
-- [ ] 正式URL:
-    - ?
-- [ ] QRコード
-    - ?
+- [x] 正式URL:
+    - https://forms.gle/sBc1yBqPrkzabJVm9
+- [x] QRコード
+    - ![](https://i.imgur.com/HUXgQFz.png)
+
 
 ### (3)オンライン中継（Zoom）
 
-- [ ] 短縮URL
+- [x] 短縮URL
     - http://bit.ly/stapy68study
-- [ ] 正式URL:
-    - ?
-- [ ] QRコード
-    - ?
+- [x] 正式URL:
+    - https://zoom.us/j/96993743707?pwd=ZzhJWXlFMTZaempvMk5lbUVZTW5DZz09
+- [x] QRコード
+    - ![](https://i.imgur.com/qoTKCSU.png)
+
 
 ### (4)オンライン配信（YouTube Live）
 
-- [ ] 正式URL:
-    - ?
+- [x] 正式URL:
+    - https://youtu.be/bEGZcTYzcRE
 
 ### 利用ツールに関する情報の共有
 
@@ -128,13 +214,13 @@
 - [ ] コンテンツ最終版のFix 日程 11/23(月） 担当者：xxx
 - [ ] メール通知：StapyメンバーへFix案内 担当者：xxx
 - [ ] Twitter通知：StapyメンバーへFix案内 担当者：xxx
-- [ ] Slido準備 担当者：阿部
-- [ ] アンケート準備 担当者：LE社
+- [x] Slido準備 担当者：本田
+- [x] アンケート準備 担当者：LE社
 - [ ] オープニングスライド準備 担当者：nikkie
-- [ ] connpass作業1:メール予約.配信URLの案内（前日） 担当：阿部
-- [ ] connpass作業2:メール予約.配信URLの案内（当日18:00）  担当：阿部
-- [ ] connpass作業3:参加者閲覧ボックスに配信URL記載 担当：阿部
-- [ ] connpass作業4:メール予約.アンケート依頼 担当：阿部
+- [x] connpass作業1:メール予約.配信URLの案内（前日） 担当：本田
+- [x] connpass作業2:メール予約.配信URLの案内（当日18:00）  担当：本田
+- [x] connpass作業3:参加者閲覧ボックスに配信URL記載 担当：本田
+- [x] connpass作業4:メール予約.アンケート依頼 担当：本田
 
 ### (1)配信URLの連絡文章テンプレート
 
@@ -174,7 +260,6 @@ Start Python Club事務局
 ## 4.2 リハーサル（日程：?/?）
 
 - 懇親会で実験するツール
-
 ## 4.3 当日の役割・担当
 
 |作業|担当|備考|
