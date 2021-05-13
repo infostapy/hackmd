@@ -15,6 +15,11 @@
 - [x] Zoom
     - https://zoom.us/j/92509671285?pwd=VHd3bGRIeGR2MFQ1UXVtZWtsNjd5UT09
 
+## 関連リンク
+* Stapy講演情報登録フォーム（管理者）
+    * https://docs.google.com/forms/d/1OvWPPfm-oDTPAYOt0UYhS0bcSvZCwp3yNNBIk5y1Avk/edit
+
+
 ---
 
 # スタッフ会議アジェンダ案
@@ -29,9 +34,28 @@
             - 清水川さん
             - 加藤先生
     - 6月（#70）の企画
-        - 申し込み状況確認
+        - 申し込み状況確認（0名）
+        - リンクはここ https://startpython.connpass.com/event/210169/
+        - 確認 https://docs.google.com/forms/d/1TUQBwlbKZf0I6iU_74p98MOwsGFcWxtzM936DzWRv68/edit#responses
+        - 5/15,16(土日)で登壇者7~8名決まった状態にしたい
+        - 告知していきましょう
+            - PyCon JP fellow #general （各地のPythonコミュニティ）
+            - pyhack #random
     - 7月（#71）の企画
         - 何しましょう
+        - アイデア
+            - 地方のPythonコミュニティ紹介
+                - Shonan
+                - Python駿河、Unagi.py
+                - はんなりPython
+                - UDON.py
+                - okinawa
+                - hiroshima https://pycon.jp/2020/timetable/?id=203938
+                - kyushu
+                - 信玄py（山梨）
+                - 飛騨高山
+                - 札幌
+                - 東海
 - 3.連絡事項（その他）
     - 何かあれば
 
@@ -45,7 +69,53 @@
 
 ## 1.3 本番についてのふりかえり(目標：5分)
 
+- アンチハラスメントは一見落ち着いたかな
+    - JX通信社の長文を利用させてもらおうか
+    - より明確になってる方が、説得力があるので。
+
+### 行動規範（例：KotlinFest）
+```
+Start Python ClubはPythonなどの技術情報の共有とコミュニケーションを目的としています。私たちはすべての参加者にとって安全で歓迎されるような場を作ることに努めます。
+
+Start Python Clubが主催するイベントに参加するすべての人は下記の行動規範を守ることを求められます。主催者はこの行動規範を勉強会、パーティ、交流会に適用します。すべての人にとって安全な場所を提供するため、聴講者、登壇者、スポンサー、主催スタッフ含めたすべての参加者にご協力をお願いします。
+
+私たちは下記のような事柄に関わらずすべての人にとって安全な場を提供することに努めます。
+
+* 社会的あるいは法的な性、性自認、性表現（外見の性）、性指向
+* 年齢、障がい、容姿、体格
+* 人種、民族、宗教（無宗教を含む）
+* 技術の選択
+ 
+そして下記のようなハラスメント行為をいかなる形であっても決して許容しません。
+
+* 脅迫、つきまとい、ストーキング
+* 不適切な画像、動画、録音の再生（性的な画像など）
+* 発表や他のイベントに対する妨害行為
+* 不適切な身体的接触
+* これらに限らない性的嫌がらせ
+
+登壇者、スポンサー、主催スタッフもこのポリシーの対象となります。性的な言葉や画像はいかなる発表やワークショップ、パーティ、Twitterのようなオンラインメディアにおいても不適切です。
+
+ハラスメント行為をやめるように指示された場合、直ちに従うことが求められます。ルールを守らない参加者は、主催者およびスポンサーの判断により、退場処分や今後のイベントに聴講者、登壇者、スタッフとして関わることを禁止します。
+
+もしハラスメントを受けていると感じたり、他の誰かがハラスメントされていることに気がついた場合、または他に何かお困りのことがあれば、すぐにスタッフまでご連絡ください。警備員や警察への連絡などを含め、安心して勉強会に参加できるようにお手伝いさせていただきます。
+
+この行動規範は、CC-BY-3.0で公開されている[Droidcon NYCのCode of Conduct](http://droidcon.nyc/code-of-conduct/)および、[DroidKaigiのCode of Conduct](http://www.association.droidkaigi.jp/code-of-conduct.html)を元に作成しています。
+
+This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
+
+Original source and credit: [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) & [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+```
+
+* スタッフのスライドの推奨サイズを統一すべきか？
+ * 16:9を推奨にする
+ * Googleスライドは「ファイル」->「ページ設定」で確認できる
+ * ref: https://support.google.com/docs/answer/3447672?co=GENIE.Platform%3DDesktop&hl=ja&oco=1
+
 ## 1.4 懇親会についてのふりかえり(目標：5分)
+
+* 初参加者は部屋に入りづらかった
+* 1部屋Clubhouse的な部屋をつくる（聞き専OK部屋。コンテンツを持っている人が必要）
 
 ---
 
@@ -66,7 +136,7 @@
 
 ## 2.3 イベントサイト（connpass）
 
-- [ ] connpassコンテンツ作成済みか？
+- [x] connpassコンテンツ作成済みか？
 - [x] connpassに公開済みか？
 - [x] URL
     - https://startpython.connpass.com/event/201615/
@@ -76,9 +146,8 @@
 | 開始 | 終了 | 時間 | 内容 | 担当 | 注意事項、備考|
 | --- | --- | --- | --- |---|---|
 | 18:30|19:00|30分| 開場 ||
-| 19:00|19:10|10分| オープニング |阿久津さん|
-| 19:10|19:25|15分|  |阿久津さん|
-| 19:25|19:40|15分|  |辻さん|
+| 19:00|19:20|20分| オープニング & トーク |阿久津さん|この１年間のリモートのことも
+| 19:20|19:40|20分|  |辻さん|
 | 19:40|20:10|30分|  |清水川さん|
 | 20:10|20:20|10分|  |LE社ミニトーク|
 | 20:20|20:50|30分|  |加藤先生|
@@ -87,7 +156,7 @@
 
 ## 2.5 運営で利用する各種サイト・ツールの準備
 
-- [ ] 開催形式
+- [x] 開催形式
 
 |勉強会 / 懇親会|オフライン|オンライン|備考|
 |---|---|---|---|
@@ -96,39 +165,42 @@
 
 ### (1)質問受付け（Slido）
 
-- イベントコード: #stapy68
-- [ ] 短縮URL:
+- イベントコード: #stapy69
+- [x] 短縮URL:
     - https://bit.ly/stapy69question
-- [ ] 正式URL:
-    - https://app.sli.do/event/xxxxxx
-- [ ] QRコード
-    - xxx
+- [x] 正式URL:
+    - https://app.sli.do/event/xasqmhls
+- [x] QRコード
+    - ![](https://i.imgur.com/hUrGnE6.png)
+
 
 
 ### (2)アンケート（Googleフォーム）
 
-- [ ] 短縮URL:
+- [x] 短縮URL:
     - https://bit.ly/stapy69
-- [ ] 正式URL:
-    - https://
-- [ ] QRコード
-    - xxx
+- [x] 正式URL:
+    - https://forms.gle/TffJ9D4JLTzVARwd6
+- [x] QRコード
+    - ![](https://i.imgur.com/uBtcCqW.png)
+
 
 
 ### (3)オンライン中継（Zoom）
 
-- [ ] 短縮URL
+- [x] 短縮URL
     - http://bit.ly/stapy69study
-- [ ] 正式URL:
-    - https://zoom.us/xxxxxxxx
-- [ ] QRコード
-    - xxx
+- [x] 正式URL:
+    - https://zoom.us/j/92805310227?pwd=bHFOT05KNEFVU2pZRjFNVW5STFc1Zz09
+- [x] QRコード
+    - ![](https://i.imgur.com/1VKRgcF.png)
+
 
 
 ### (4)オンライン配信（YouTube Live）
 
-- [ ] 正式URL:
-    - https://youtu.be/bEGZcTYzcRE
+- [x] 正式URL:
+    - https://youtu.be/zXctQwofKVA
 
 ### 利用ツールに関する情報の共有
 
@@ -161,20 +233,20 @@
 
 ## 4.1 事前準備・担当
 
-- [ ] コンテンツ最終版のFix 日程 4/xx(xx） 担当者：xxx
-- [ ] メール通知：StapyメンバーへFix案内 担当者：xxx
-- [ ] Twitter通知：StapyメンバーへFix案内 担当者：xxx
-- [ ] Slido準備 担当者：本田
-- [ ] アンケート準備 担当者：LE社
-- [ ] オープニングスライド準備 担当者：nikkie
-- [ ] connpass作業1:メール予約.配信URLの案内（前日） 担当：本田
-- [ ] connpass作業2:メール予約.配信URLの案内（当日18:00）  担当：本田
-- [ ] connpass作業3:参加者閲覧ボックスに配信URL記載 担当：本田
-- [ ] connpass作業4:メール予約.アンケート依頼 担当：本田
+- [x] コンテンツ最終版のFix 日程 4/28(水） 担当者：xxx
+- [x] メール通知：StapyメンバーへFix案内 担当者：xxx
+- [x] Twitter通知：StapyメンバーへFix案内 担当者：xxx
+- [x] Slido準備 担当者：本田
+- [x] アンケート準備 担当者：LE社
+- [x] オープニングスライド準備 担当者：nikkie
+- [x] connpass作業1:メール予約.配信URLの案内（前日） 担当：本田
+- [x] connpass作業2:メール予約.配信URLの案内（当日18:00）  担当：本田
+- [x] connpass作業3:参加者閲覧ボックスに配信URL記載 担当：本田
+- [x] connpass作業4:メール予約.アンケート依頼 担当：本田
 
 ## 4.2 リハーサル
 
-- [ ] リハーサルは実施するか？
+- [x] リハーサルは実施するか？
  - する：しない
 
 ## 4.3 当日の役割・担当者
@@ -191,8 +263,8 @@
 
 ## 4.4 事後作業・担当
 
-- [ ] toggeterまとめ 担当：阿部
-- [ ] 動画アーカイブ編集 担当：LE社
+- [x] toggeterまとめ 担当：阿部
+- [x] 動画アーカイブ編集 担当：LE社
 - [ ] 発表者へのアンケートフィードバック 担当：各オファー担当者
 
 ---
