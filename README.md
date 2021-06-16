@@ -10,11 +10,11 @@
 
 * [開催実績](https://docs.google.com/spreadsheets/d/1wkh0gQT6w8POBrMH374xYbjWUVejh_X7B92ibMNqgOg/edit#gid=0)
 
-# 勉強会 企画メモ一 覧
+# 勉強会 企画メモ 一覧
 
 |#|日付(connpass)|ステータス|企画メモ|備考| 
 |---|---|---|---|---|
-|#80|2022/03/?（?）||[STAPY #80](/Stapy_080.md)
+|#80|2022/04/?（?）||[STAPY #80](/Stapy_080.md)
 |#79|2022/03/?（水）||[STAPY #79](/Stapy_079.md)
 |#78|2022/02/?（水）||[STAPY #78](/Stapy_078.md)
 |#77|2022/01/?（水）||[STAPY #77](/Stapy_077.md)
