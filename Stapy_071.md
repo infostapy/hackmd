@@ -15,6 +15,8 @@
 
 # STAPY71企画（07/14） 
 
+[![hackmd-github-sync-badge](https://hackmd.io/MLDDWbBIRyOo0X0dIthlig/badge)](https://hackmd.io/MLDDWbBIRyOo0X0dIthlig)
+
 ###### tags: `stapy` `python`
 
 ## 関連リンク
@@ -47,8 +49,8 @@
 - 時間(懇親会)：21:00-22:00
 
 ## 2.3 イベントサイト（connpass）
-- [ ] URL
-    - https://
+- [x] URL
+    - https://startpython.connpass.com/event/215938/
 - 公開済み
 
 ## 2.4 タイムスケジュール
