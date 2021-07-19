@@ -12,6 +12,8 @@
 
 # STAPY$no企画（$mmdd） 
 
+[![hackmd-github-sync-badge](https://hackmd.io/9YGraLCXRyu4_CBtS-sBbQ/badge)](https://hackmd.io/9YGraLCXRyu4_CBtS-sBbQ)
+
 ###### tags: `stapy` `python`
 
 ## 関連リンク
