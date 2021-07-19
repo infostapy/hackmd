@@ -1,16 +1,4 @@
-テンプレート
-
-%$no,63 // 開催
-
-%$ymdw,2020年11月12日(木) // 日付(yyyy年mm月dd日(week)形式)
-
-%$mmdd,11/12 // 日付(mm/dd形式)
-
-%$limitconnpass,11/12 // 日付(mm/dd形式)
-
-%$limitqes,11/19(木) // アンケートの締め切り
-
-# STAPY$no企画（$mmdd） 
+# STAPY72企画（08/11） 
 
 [![hackmd-github-sync-badge](https://hackmd.io/BRie0GXjSKe_tIyLppybUQ/badge)](https://hackmd.io/BRie0GXjSKe_tIyLppybUQ)
 
@@ -36,12 +24,12 @@
 
 ## 2.1.タイトル・サブタイトル
 
-- みんなのPython勉強会#$no
+- みんなのPython勉強会#72
 - **〜（サブタイトル）〜**
 
 ## 2.2.日時
 
-- 日付：$ymdw
+- 日付：2021年8月11日(水)
 - 時間(本編)：19:00-21:00（120分）
 - 時間(懇親会)：21:00-22:00
 
@@ -60,10 +48,10 @@
 
 ### (1)質問受付け（Slido）
 
-- イベントコード: #stapy$no
+- イベントコード: #stapy72
 
 - [x] 短縮URL:
-    - https://bit.ly/stapy$noquestion
+    - https://bit.ly/stapy72question
 - [x] 正式URL:
     - ?
 - [x] QRコード
@@ -72,7 +60,7 @@
 ### (2)アンケート（Googleフォーム）
 
 - [x] 短縮URL:
-    - https://bit.ly/stapy$no
+    - https://bit.ly/stapy72
 - [x] 正式URL:
     - ?
 - [x] QRコード
@@ -81,7 +69,7 @@
 ### (3)オンライン中継（Zoom）
 
 - [x] 短縮URL
-    - http://bit.ly/stapy$nostudy
+    - http://bit.ly/stapy72study
 - [x] 正式URL:
     - ?
 - [x] QRコード
@@ -119,7 +107,7 @@
 
 ## 4.1 事前準備・担当
 
-- [ ] コンテンツ最終版のFix 日程 $limitconnpass 担当者：xxx
+- [ ] コンテンツ最終版のFix 日程 07/31 担当者：xxx
 - [ ] メール通知：StapyメンバーへFix案内 担当者：xxx
 - [ ] Twitter通知：StapyメンバーへFix案内 担当者：xxx
 - [ ] Slido準備 担当者：阿部
@@ -137,13 +125,13 @@
 #### 件名（前日）
 
 ~~~
-$mmdd 19:00開始「みんなのPython勉強会$no」配信URLのご連絡
+08/11 19:00開始「みんなのPython勉強会72」配信URLのご連絡
 ~~~
 
 #### 件名（当日の夕方18:30ごろ）
 
 ~~~
-$mmdd 19:00開始「みんなのPython勉強会#$no」配信URLのご連絡（リマインダー）
+08/11 19:00開始「みんなのPython勉強会#72」配信URLのご連絡（リマインダー）
 ~~~
 
 #### 本文
@@ -153,13 +141,13 @@ $mmdd 19:00開始「みんなのPython勉強会#$no」配信URLのご連絡（�
 （リマインダー）
 
 イベント配信URL（Zoom配信）
-$ymdw 19:00~
-https://bit.ly/stapy$nostudy
+2021年8月11日(水) 19:00~
+https://bit.ly/stapy72study
 
 発表者への質問
 こちらのURLからどんどん質問をお願いいたします。
-https://bit.ly/stapy$noquestion
-(Slido.com #stapy$no)
+https://bit.ly/stapy72question
+(Slido.com #stapy72)
 
 --
 Start Python Club事務局
@@ -194,7 +182,7 @@ Start Python Club事務局
 #### 件名
 
 ~~~
-【アンケートにご協力ください】みんなのPython勉強会#$no
+【アンケートにご協力ください】みんなのPython勉強会#72
 ~~~
 
 #### 本文
@@ -205,10 +193,10 @@ Start Python Club事務局
 今後の勉強会の満足度向上および登壇者へのフィードバックのためにアンケートを実施しております。
 
 アンケートURL
-　https://bit.ly/stapy$no
+　https://bit.ly/stapy72
 
 ※所要時間：1,2分程度
-※回答期限：$limitqes
+※回答期限：08/19(木)
 
 是非、皆様の率直なご意見・ご感想をお聞かせください。
 --
