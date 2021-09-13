@@ -1,5 +1,8 @@
 # STAPY73企画（21/9/8） 
 
+[![hackmd-github-sync-badge](https://hackmd.io/lfnVmfd6SHue8YSqHVmuEA/badge)](https://hackmd.io/lfnVmfd6SHue8YSqHVmuEA)
+
+
 ###### tags: `stapy` `python`
 
 ## 関連リンク
